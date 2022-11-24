@@ -1,4 +1,4 @@
-name = "doh"
+name = "dns"
 workers_dev = true
 compatibility_date = "2022-10-21"
 main = "index.js"
